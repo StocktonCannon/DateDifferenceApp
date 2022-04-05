@@ -4,9 +4,8 @@ This simple app allows the user to enter a date using a calendar widget.  The di
 
 This app allows a simple way to check how far away a specific date is
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=fNPwTYMr-Qs)
 
 # Development Environment
 
@@ -16,13 +15,11 @@ The app is written in Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [android developer](https://developer.android.com/guide)
+* [countdown calendar example](https://www.youtube.com/watch?v=BV3ijYdVOfI)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* let user input two dates
+* start a timer on selected future date
+
